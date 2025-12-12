@@ -1,4 +1,4 @@
-import { CreateTaskDTO } from "../DTOs/CreateTaskDTO";
+
 import { CreateTaskUseCase } from "./CreateTaskUseCase";
 import { Request, Response } from "express";
 export class CreateTaskController{
